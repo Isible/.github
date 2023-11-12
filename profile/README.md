@@ -1,3 +1,3 @@
 ## Isible
 
-Building the developer experience of the future
+Building the next generation of free software

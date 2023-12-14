@@ -1,3 +1,3 @@
 ## Isible
 
-Building the next generation of free software
+Building modern software
